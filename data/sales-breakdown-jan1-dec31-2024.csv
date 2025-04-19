@@ -1,0 +1,12 @@
+Sales Category,Dining Option,Item Qty,Net Sales,Discount Amount,Gross Sales,Tax Amount
+No Sales Category,,5966,102840.87,0,102840.87,8345.4,
+No Sales Category,Owner.com Take Out,3785,67383.15,0,67383.15,5557.78,
+No Sales Category,Owner.com Delivery,782,12712.83,0,12712.83,1048.49,
+No Sales Category,DoorDash Take Out,1176,21084.39,0,21084.39,1739.13,
+No Sales Category,Dine In,123,960.5,0,960.5,0,
+No Sales Category,Take Out,100,700,0,700,0,
+Pizza,,7927,116681.3,2779.56,119460.86,9022.99,
+Pizza,Dine In,2613,30392.5,952.18,31344.68,2308.46,
+Pizza,Take Out,5307,86154.36,1827.38,87981.74,6703.44,
+Pizza,Curbside,2,30.49,0,30.49,2.51,
+Pizza,Owner.com Take Out,5,103.95,0,103.95,8.58,
